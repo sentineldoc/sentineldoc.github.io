@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksentinel_doc_tmp=self.webpackChunksentinel_doc_tmp||[]).push([["6079"],{26402(e,c,t){t.d(c,{createArchitectureServices:()=>s.S});var s=t(45016);t(69302)}}]);
